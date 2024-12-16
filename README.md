@@ -12,10 +12,10 @@ The tested gesture patterns include 5 digits (G0 ~ G4) and 5 Greek letters (GA ~
 
 For each folder:
 * ``Preamble.mat``
-  * H : Frequency response of the preamble gesture (4Rx-2Tx).
+  * H: Frequency response of the preamble gesture (4Rx-2Tx).
 * ``Gx.mat``
-  * H_gestures : Frequency responses of 5 Gx gestures.
-  * v_gestures : Ground truth of 3D velocities.
+  * H_gestures: Frequency responses of 5 Gx gestures.
+  * v_gestures: Ground truth of 3D velocities.
 
 
 
