@@ -20,7 +20,7 @@ For each position:
 # Code
 
 Script:
-* ``Wireless_Handwriting_Release.m``: Extract dynamic paths of each wireless link.
+* ``Wireless_Handwriting_Release.m``: Extract dynamic path of each wireless link.
 
 Full code will be updated after the paper is accepted.
 
