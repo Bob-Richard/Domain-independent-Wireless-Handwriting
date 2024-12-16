@@ -1,4 +1,6 @@
 # Domain-independent-Wireless-Handwriting
-Domain-independent Handwriting Trajectory Recovery Based on Multiple Wireless Links
+Domain-independent Handwriting Trajectory Recovery
 
-Code for paper: Domain-independent Handwriting Trajectory Recovery Based on Multiple Wireless Links
+Code and data for paper: Domain-independent Handwriting Trajectory Recovery Based on Multiple Wireless Links
+
+# Dataset
