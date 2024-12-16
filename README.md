@@ -8,7 +8,7 @@ Data for prototype experiments in Section V-A.
 
 6 positions (P1 ~ P6), each folder contains 1 preamble gesture and 50 tested gestures.
 
-The tested gesture patterns include 5 digits (G0 ~ G4) and 5 Greek letters (GA ~ GB).
+The tested gesture patterns include 5 digits (G0 ~ G4) and 5 Greek letters (GA ~ GB), each gesture is performed 5 times.
 
 For each folder:
 * ``Preamble.mat``
