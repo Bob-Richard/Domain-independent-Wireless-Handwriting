@@ -15,7 +15,7 @@ For each folder:
   * H : Frequency response of the preamble gesture (4Rx-2Tx).
 * ``Gx.mat``
   * H_gestures : Frequency responses of 5 Gx gestures.
-  * v_gestures : 3D velocities of 5 Gx gestures.
+  * v_gestures : Ground truth of 3D velocities.
 
 
 
