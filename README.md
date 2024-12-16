@@ -17,6 +17,13 @@ For each position:
   * H_gestures: Frequency responses of 5 Gx gestures.
   * v_gestures: Ground truth of 3D velocities.
 
+# Code
+
+Script:
+* ``Wireless_Handwriting_Release.m``: Extract dynamic paths of each wireless link.
+
+Full code will be updated after the paper is accepted.
+
 
 
 
