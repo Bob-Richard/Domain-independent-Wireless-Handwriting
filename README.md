@@ -8,3 +8,6 @@ Data for prototype experiments in Section V-A.
 
 6 positions (P1~P6), each folder contains 1 preamble gesture and 50 tested gestures.
 
+![gesture_patterns](https://github.com/Bob-Richard/Domain-independent-Wireless-Handwriting/blob/main/gestures.png)
+
+
