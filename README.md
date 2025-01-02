@@ -24,6 +24,10 @@ Script:
 
 Full code will be updated soon...
 
+# Demonstration Video
+
+* ``Demonstration_Video.mp4``: Real-time gesture trajectory recovery and recongnition in a disturbed scenario, see also Section V-B for more details.
+
 
 
 
