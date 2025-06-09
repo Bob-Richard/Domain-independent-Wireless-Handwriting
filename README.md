@@ -18,7 +18,7 @@ For each position:
 * ``Wireless_Handwriting.m``: Perform trajectory recovery.
 
 # 2. Demonstration Video
-* ``Demonstration_Video.mp4``: Real-time gesture trajectory recovery and recongnition in a disturbed scenario with commercial 5G-NR signals, see also Section V-B for more details.
+* ``Demonstration_Video.mp4``: Real-time gesture trajectory recovery and recognition in a disturbed scenario with commercial 5G-NR signals, see also Section V-B for more details.
 
 # 3. Gesture Recognition
 Code for gesture recognition experiments in Section V-C.<br>
