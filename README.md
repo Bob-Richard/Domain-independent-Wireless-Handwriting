@@ -37,18 +37,6 @@ If you find our work helpful for your research, we would really appreciate it if
   doi={10.1109/TWC.2025.3574255}}
 ```
 
-An earlier version of this paper was presented in part at the 16th International Conference on Wireless Communications and Signal Processing (WCSP2024), Hefei, China, in October 2024.<br>
-In the conference paper, we validate the proposed method with commercial LTE signals.
-```text
-@INPROCEEDINGS{wcspwyx2024,
-  author={Wang, Yuxin and Peng, Rui and Tian, Yafei},
-  booktitle={2024 16th International Conference on Wireless Communications and Signal Processing (WCSP)}, 
-  title={3D Handwriting Trajectory Recovery by Wireless Sensing with Commercial LTE Signals}, 
-  year={2024},
-  pages={752-757},
-  doi={10.1109/WCSP62071.2024.10827566}}
-```
-
 
 
 
