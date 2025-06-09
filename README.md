@@ -1,7 +1,6 @@
 # Domain-independent-Wireless-Handwriting
 Code and data for paper: Domain-independent Handwriting Trajectory Recovery Based on Multiple Wireless Links<br>
 
-
 # 1. Prototype Experiment
 ## Dataset
 Data for prototype experiments in Section V-A. <br>
@@ -19,11 +18,12 @@ For each position:
 * ``Wireless_Handwriting.m``: Perform trajectory recovery.
 
 # 2. Demonstration Video
-* ``Demonstration_Video.mp4``: Real-time gesture trajectory recovery and recongnition in a disturbed scenario, see also Section V-B for more details.
+* ``Demonstration_Video.mp4``: Real-time gesture trajectory recovery and recongnition in a disturbed scenario with commercial 5G-NR signals, see also Section V-B for more details.
 
 # 3. Gesture Recognition
-* ``WirelessHandwriting_Htran.m``: Perform transformation matrix estimation, trajectory recovery and gesture recognition
-* ``WirelessHandwriting_Recognition.m``: Get the confusion matrix of the testing dataset
+Code for gesture recognition experiments in Section V-C.<br>
+* ``WirelessHandwriting_Htran.m``: Perform transformation matrix estimation, trajectory recovery and gesture recognition.
+* ``WirelessHandwriting_Recognition.m``: Get the confusion matrix of the testing dataset.
 
 # 4. Citation
 Our article has been published as Early Access on IEEE Xplore: https://ieeexplore.ieee.org/document/11024134<br>
