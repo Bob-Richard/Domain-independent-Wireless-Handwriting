@@ -38,7 +38,7 @@ If you find our work helpful for your research, we would really appreciate it if
 ```
 
 An earlier version of this paper was presented in part at the 16th International Conference on Wireless Communications and Signal Processing (WCSP2024), Hefei, China, in October 2024.<br>
-In the conference paper, we validate the the proposed method with commercial LTE signals.
+In the conference paper, we validate the proposed method with commercial LTE signals.
 ```text
 @INPROCEEDINGS{wcspwyx2024,
   author={Wang, Yuxin and Peng, Rui and Tian, Yafei},
