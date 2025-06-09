@@ -5,7 +5,7 @@ Code and data for paper: Domain-independent Handwriting Trajectory Recovery Base
 ## Dataset
 Data for prototype experiments in Section V-A. <br>
 6 positions (P1 ~ P6), each folder contains 1 preamble gesture and 50 tested gestures.<br>
-The tested gesture patterns include 5 digits (G0 ~ G4) and 5 Greek letters (GA ~ GB), each gesture is performed 5 times.
+The tested gesture patterns include 5 digits (G0 ~ G4) and 5 Greek letters (GA ~ GE), each gesture is performed 5 times.
 
 For each position:
 * ``Preamble.mat``
