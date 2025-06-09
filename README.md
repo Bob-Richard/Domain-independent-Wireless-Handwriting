@@ -27,7 +27,7 @@ For each position:
 
 # 4. Citation
 Our article has been published as Access area on IEEE Xplore.<br>
-
+If you find our work helpful for your research, we would really appreciate it if you could cite the following paper.
 ```text
 @ARTICLE{11024134,
   author={Wang, Yuxin and Tian, Yafei and Peng, Rui},
